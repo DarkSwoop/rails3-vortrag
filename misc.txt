@@ -4,4 +4,4 @@
   not solve everyone's problems, 
   keine heiligen Kühe, 
   have it your way
-# 
+# wie verhält sich ActiveView zum Responder?
