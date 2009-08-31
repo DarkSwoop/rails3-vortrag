@@ -1,0 +1,7 @@
+# was bringt ActiveRelation?
+# Unobstrusive Javascript war ne 'heilige Kuh'
+# Philosophie von Rails3 laut DHH: 
+  not solve everyone's problems, 
+  keine heiligen Kühe, 
+  have it your way
+# 
