@@ -11,3 +11,12 @@ http://ffffound.com/image/c11d40666c4dd04124145cc9106ae6dad854436b?c=2121155
 http://ffffound.com/image/b21225011032d0677ffcddae0d7ed179766c9f84?c=2874254
 http://ffffound.com/image/274e7a44e7ad330f76d3f74afc8494945fac8df0?c=3710543
 http://ffffound.com/image/7bf3164ccb8228b355548fc8d7aa62c635334df0?c=3677116
+
+
+
+
+Einleitung                    Einbettung in die Historie
+Ziele von Rails 3
+Änderungen
+Bedeutung
+Fazit und Ende
