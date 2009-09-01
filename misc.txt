@@ -15,7 +15,9 @@ http://ffffound.com/image/7bf3164ccb8228b355548fc8d7aa62c635334df0?c=3677116
 
 
 
-Einleitung                    Einbettung in die Historie
+Einleitung                    
+  Einbettung in die Historie
+  Werte
 Ziele von Rails 3
 Änderungen
 Bedeutung
